@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogawidodo" alt="yogawidodo" /></a> </p>
 
-- 🔭 I’m currently working on **Truth Or Dare for enviromental awareness**
+- 🔭 I’m currently working on **Truth Or Dare for environmental awareness**
 
-- 🌱 I’m currently learning **Java,Kotlin,Spring,Figma,MySQL,Fluter,and DART**
+- 🌱 I’m currently learning **Java, Kotlin, Spring, Figma, MySQL, Fluter, and DART**
 
 - 👯 I’m looking to collaborate on **Gold Trash project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yogaWidodo](https://github.com/yogaWidodo)
 
-- 💬 Ask me about **Android,back-end,JAVA,KOTLIN,DART**
+- 💬 Ask me about **Android, back-end, JAVA, KOTLIN, DART**
 
 - 📫 How to reach me **yogasulistiyo.2021@student.uny.ac.id**
 
@@ -23,6 +23,7 @@
 <p align="left">
 <a href="https://instagram.com/ygyog_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ygyog_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yogawidodo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yogawidodo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yogawidodo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yogawidodo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
