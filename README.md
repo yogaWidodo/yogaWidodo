@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Android, back-end, JAVA, KOTLIN**
 
-- 📫 How to reach me **yogasulistiyo.2021@student.uny.ac.id**
+- 📫 How to reach me **yogasulistiyo.2021@student.uny.ac.id** or **yogawidodo1411@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
