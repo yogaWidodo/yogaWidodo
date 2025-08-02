@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋, I'm Yoga Sulistiyo Widodo</h1>
-<h3 align="center">A passionate as Backend Developer using Spring boot and  Android Developer From Indonesia</h3>
+<h3 align="center">A passionate as Backend Developer using Spring boot and Android Developer From Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogawidodo&label=Profile%20views&color=0e75b6&style=flat" alt="yogawidodo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogawidodo" alt="yogawidodo" /></a> </p>
 
-- 🔭 I’m currently working on **JobMatch for Job recommendation using AI**
 
-- 🌱 I’m currently learning **Java, Kotlin, Spring, Figma, MySQL,NoSQL, FIrebase**
+- 🌱 I’m currently learning **Java, Kotlin, Python,Spring, Figma, MySQL,NoSQL, Firebase**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yogaWidodo](https://github.com/yogaWidodo)
 
-- 💬 Ask me about **Android, back-end, JAVA, KOTLIN**
+- 💬 Ask me about **Backend, Android, AI**
 
 - 📫 How to reach me **yogasulistiyo.2021@student.uny.ac.id** or **yogawidodo1411@gmail.com**
 
