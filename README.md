@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **Java, Kotlin, Python,Spring, Figma, MySQL,NoSQL, Firebase**
 
-- 👨‍💻 All of my projects are available at [https://github.com/yogaWidodo](https://github.com/yogaWidodo)
+- 👨‍💻 All of my projects are available at [this github](https://github.com/yogaWidodo) and [My Portofolio](https://yoga-portofolio-v1-0-0.vercel.app/)
 
 - 💬 Ask me about **Backend, Android, AI**
 
-- 📫 How to reach me **yogasulistiyo.2021@student.uny.ac.id** or **yogawidodo1411@gmail.com**
+- 📫 How to reach me **yogawidodo1411@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
