@@ -73,9 +73,6 @@ const skills = {
 ### 📊 GitHub Stats
 
 <a href="https://github.com/yogaWidodo">
-  <img src="https://github-readme-stats.vercel.app/api?username=yogawidodo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1&cache_seconds=86400" width="48%" alt="GitHub Stats"/>
-</a>
-<a href="https://github.com/yogaWidodo">
   <img src="https://streak-stats.demolab.com?user=yogawidodo&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" width="48%" alt="GitHub Streak"/>
 </a>
 
